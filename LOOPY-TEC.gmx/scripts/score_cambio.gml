@@ -6,13 +6,13 @@ caso 2;amarillo -> objectivo
 caso 3;normal -> amarillo
 caso 4;objectivo -> amarillo
 
-// NORMAL
+// NORMAL//1uno uno
 caso 5;normal -> normal
 caso 6;normal -> objectivo
 
 caso 7;objetivo -> normal
 
-//OBJECTIVO
+//OBJECTIVO //probando
 caso 8;objectivo -> objectivo
 */
 
